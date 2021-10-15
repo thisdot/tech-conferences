@@ -14,3 +14,6 @@ We would love to know which conferences you think deserve to be included in our 
 
 ### Open Source
 [All Things Open](https://www.allthingsopen.org/)
+
+### General
+[Strange Loop](https://www.thestrangeloop.com/)
