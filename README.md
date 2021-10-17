@@ -8,6 +8,7 @@ We would love to know which conferences you think deserve to be included in our 
 [React Rally](https://www.reactrally.com/)
 
 ### Vue
+[Vue.js Live](https://vuejslive.com/)
 
 ### Angular
 [Ng-conf](https://enterprise.ng-conf.org/)
