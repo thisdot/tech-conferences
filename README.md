@@ -12,6 +12,7 @@ Country: USA
 
 
 ### Vue
+[Vue.js Live](https://vuejslive.com/)
 [VueJS Amsterdam](https://www.https://vuejs.amsterdam)
 (add description)
 City and State: Amsterdam
