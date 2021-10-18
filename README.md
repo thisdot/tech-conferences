@@ -27,7 +27,6 @@ Country: USA
 
 ### General
 [All Things Open](https://www.allthingsopen.org/)
-[Strange Loop](https://www.thestrangeloop.com/)
 (add description)
 City and State: Raleigh, NC
 Country: USA
@@ -37,3 +36,7 @@ Country: USA
 City and State: Atlanta, GA
 Country: USA
 
+[Strange Loop](https://www.thestrangeloop.com/)
+A multi-disciplinary conference that covers fields such as emerging languages, alternative databases, concurrency, distributed systems, security, and the web.
+City and State: St. Louis, MO
+Country: USA
