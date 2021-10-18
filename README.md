@@ -26,6 +26,7 @@ Country: USA
 
 ### General
 [All Things Open](https://www.allthingsopen.org/)
+[Strange Loop](https://www.thestrangeloop.com/)
 (add description)
 City and State: Raleigh, NC
 Country: USA
