@@ -6,12 +6,34 @@ We would love to know which conferences you think deserve to be included in our 
 
 ### React
 [React Rally](https://www.reactrally.com/)
+(add description)
+City and State: Salt Lake City, Utah
+Country: USA
+
 
 ### Vue
 [Vue.js Live](https://vuejslive.com/)
+[VueJS Amsterdam](https://www.https://vuejs.amsterdam)
+(add description)
+City and State: Amsterdam
+Country: Netherlands
+
 
 ### Angular
-[Ng-conf](https://enterprise.ng-conf.org/)
+[ng-conf](https://enterprise.ng-conf.org/)
+(add description)
+City and State: Salt Lake City, Utah
+Country: USA
 
-### Open Source
+### General
 [All Things Open](https://www.allthingsopen.org/)
+[Strange Loop](https://www.thestrangeloop.com/)
+(add description)
+City and State: Raleigh, NC
+Country: USA
+
+[Connect Tech](https://connect.tech)
+(add description)
+City and State: Atlanta, GA
+Country: USA
+
