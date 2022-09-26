@@ -11,6 +11,8 @@ We would love to know which conferences you think deserve to be included in our 
 - [Angular](#angular)
 - [General](#general)
 - [Kubernetes](#kubernetes)
+- [DevOps](#devops)
+- [UI/UX](#uiux)
 
 ## React
 
@@ -76,3 +78,19 @@ Biggest conference on Kubernetes and building cloud native applications.<br>
 Biggest conference on Kubernetes and building cloud native applications.<br>
 **City and State**: Detroit, MI<br>
 **Country**: USA
+
+## DevOps
+
+[DevOps Global Summit](https://events.geekle.us/devops/)
+
+Come and explore all things DevOps with this Global Online Summit.<br>
+**City and State**: Online<br>
+**Country**: Online
+
+## UI/UX
+
+[Amuse Conference](https://amuseconf.com/)
+
+This international conference brings together UI/UX engineers from all regions to share ideas, experiences, and tools.<br>
+**City and State**: Budapest<br>
+**Country**: Hungary
