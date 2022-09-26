@@ -21,6 +21,7 @@ React Rally in Cyberspace is a one day, single track conference for developers o
 **Country**: USA
 
 [International JavaScript Conference](https://javascript-conference.com/munich/)
+
 From Angular and React to WebAssembly; from Progressive Web Apps to JAMstack – international experts share insights on the present and future JavaScript.<br>
 **City and State**: Munich<br>
 **Country**: Germany
@@ -29,6 +30,7 @@ From Angular and React to WebAssembly; from Progressive Web Apps to JAMstack –
 
 [Vue.js Live](https://vuejslive.com/)
 [VueJS Amsterdam](https://www.vuejs.amsterdam/)
+
 Full Day Vuejs Conference with over 2,000 People flying from over 50 Countries in the World. Vuejs Amsterdam is the must-attend Vue Community Event & Event of the year.<br>
 **City and State**: Amsterdam<br>
 **Country**: Netherlands
@@ -36,6 +38,7 @@ Full Day Vuejs Conference with over 2,000 People flying from over 50 Countries i
 ## Angular
 
 [ng-conf](https://enterprise.ng-conf.org/)
+
 The conference that will teach you how to get the most out of your Angular applications in the enterprise.<br>
 **City and State**: Salt Lake City, Utah<br>
 **Country**: USA
@@ -43,16 +46,19 @@ The conference that will teach you how to get the most out of your Angular appli
 ## General
 
 [All Things Open](https://www.allthingsopen.org/)
+
 A universe of events and platforms focused on open source, open tech and the open web.<br>
 **City and State**: Raleigh, NC<br>
 **Country**: USA
 
 [Connect Tech](https://connect.tech)
+
 Largest multi-framework front-end dev conference in the USA.<br>
 **City and State**: Atlanta, GA<br>
 **Country**: USA
 
 [Strange Loop](https://www.thestrangeloop.com/)
+
 A multi-disciplinary conference that covers fields such as emerging languages, alternative databases, concurrency, distributed systems, security, and the web.<br>
 **City and State**: St. Louis, MO<br>
 **Country**: USA
@@ -60,11 +66,13 @@ A multi-disciplinary conference that covers fields such as emerging languages, a
 ## Kubernetes
 
 [KubeCon/CloudNative Con Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
+
 Biggest conference on Kubernetes and building cloud native applications.<br>
 **City and State**: Valencia<br>
 **Country**: Spain
 
 [KubeCon/CloudNative Con USA](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
+
 Biggest conference on Kubernetes and building cloud native applications.<br>
 **City and State**: Detroit, MI<br>
 **Country**: USA
