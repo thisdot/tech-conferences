@@ -28,6 +28,12 @@ From Angular and React to WebAssembly; from Progressive Web Apps to JAMstack –
 **City and State**: Munich<br>
 **Country**: Germany
 
+[React Day Berlin](https://reactday.berlin/)
+
+Take part in the exploration of the React universe! With in-depth talks, hands-on workshops & new opportunities, the React Day Berlin conference provides space for everyone to collaborate on stellar apps.<br>
+**City and State**: Berlin<br>
+**Country**: Germany
+
 ## Vue
 
 [Vue.js Live](https://vuejslive.com/)
