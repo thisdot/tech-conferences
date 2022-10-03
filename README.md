@@ -28,6 +28,12 @@ From Angular and React to WebAssembly; from Progressive Web Apps to JAMstack –
 **City and State**: Munich<br>
 **Country**: Germany
 
+[React Advanced](https://reactadvanced.com/)
+
+A conference about modern web development with React, React Native, GraphQL and TypeScript.Get a chance to connect with the global network of field experts and explore react.js.<br>
+**City and State**: London<br>
+**Country**: England
+
 ## Vue
 
 [Vue.js Live](https://vuejslive.com/)
