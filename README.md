@@ -93,6 +93,12 @@ Come and explore all things DevOps with this Global Online Summit.<br>
 **City and State**: Online<br>
 **Country**: Online
 
+[DevOps Stage](https://devopsstage.com/)
+
+DevOps Stage is one of the biggest conferences on Cloud Architecture and DevOps in Eastern Europe. It is for those who create complex softwares, work on nontrivial technical problems and use cutting edge technologies.<br>
+**City and State**: Online<br>
+**Country**: Online
+
 ## UI/UX
 
 [Amuse Conference](https://amuseconf.com/)
