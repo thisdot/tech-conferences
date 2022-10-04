@@ -85,6 +85,12 @@ A multi-disciplinary conference that covers fields such as emerging languages, a
 **City and State**: St. Louis, MO<br>
 **Country**: USA
 
+[Goto Conferences](https://gotopia.tech/)
+
+GOTO gathers the brightest minds in the software community to help developers tackle projects today, plan for tomorrow and create a better future.<br>
+**City and State**: Global<br>
+**Country**: Global
+
 ## Kubernetes
 
 [KubeCon/CloudNative Con Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
