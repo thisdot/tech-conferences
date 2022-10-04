@@ -59,6 +59,12 @@ The conference that will teach you how to get the most out of your Angular appli
 **City and State**: Salt Lake City, Utah<br>
 **Country**: USA
 
+[Angular Day](https://2022.angularday.it/)
+
+The Angular Day conference provides an opportunity to all angular developers to meet and share experiences while having fun and networking in an enjoyable context.<br>
+**City and State**: Verona<br>
+**Country**: Italy
+
 ## General
 
 [All Things Open](https://www.allthingsopen.org/)
