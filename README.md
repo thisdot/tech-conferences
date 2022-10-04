@@ -30,7 +30,7 @@ From Angular and React to WebAssembly; from Progressive Web Apps to JAMstack –
 
 [React Advanced](https://reactadvanced.com/)
 
-A conference about modern web development with React, React Native, GraphQL and TypeScript.Get a chance to connect with the global network of field experts and explore react.js.<br>
+A conference about modern web development with React, React Native, GraphQL and TypeScript. Get a chance to connect with the global network of field experts and explore React.js.<br>
 **City and State**: London<br>
 **Country**: England
 
