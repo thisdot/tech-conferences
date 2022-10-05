@@ -13,6 +13,7 @@ We would love to know which conferences you think deserve to be included in our 
 - [Kubernetes](#kubernetes)
 - [DevOps](#devops)
 - [UI/UX](#uiux)
+- [CyberSecurity](#cybersecurity)
 
 ## React
 
@@ -126,3 +127,11 @@ DevOps Stage is one of the biggest conferences on Cloud Architecture and DevOps 
 This international conference brings together UI/UX engineers from all regions to share ideas, experiences, and tools.<br>
 **City and State**: Budapest<br>
 **Country**: Hungary
+
+## CyberSecurity
+
+[DefCon](https://defcon.org/)
+
+DEF CON is the world's premiere Hacker Conference, held annually in Las Vegas, Nevada. DEF CON is one of the oldest continuously running hacker conventions around, and also one of the largest.
+**City and State**: Las Vegas, Nevada<br>
+**Country**: USA
