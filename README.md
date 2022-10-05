@@ -91,6 +91,10 @@ GOTO gathers the brightest minds in the software community to help developers ta
 **City and State**: Global<br>
 **Country**: Global
 
+[JS Nation](https://jsnation.com/)
+
+JSNation is a 2-day conference focusing exclusively on JavaScript development. It is a good opportunity to learn about the latest trends in the JavaScript ecosystem, and meet other developers.<br>
+
 ## Kubernetes
 
 [KubeCon/CloudNative Con Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
