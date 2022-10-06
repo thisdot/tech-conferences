@@ -132,6 +132,6 @@ This international conference brings together UI/UX engineers from all regions t
 
 [DefCon](https://defcon.org/)
 
-DEF CON is the world's premiere Hacker Conference, held annually in Las Vegas, Nevada. DEF CON is one of the oldest continuously running hacker conventions around, and also one of the largest.
+DEF CON is the world's premiere Hacker Conference, held annually in Las Vegas, Nevada. DEF CON is one of the oldest continuously running hacker conventions around, and also one of the largest.<br>
 **City and State**: Las Vegas, Nevada<br>
 **Country**: USA
