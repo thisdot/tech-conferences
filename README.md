@@ -96,6 +96,10 @@ GOTO gathers the brightest minds in the software community to help developers ta
 
 JSNation is a 2-day conference focusing exclusively on JavaScript development. It is a good opportunity to learn about the latest trends in the JavaScript ecosystem, and meet other developers.<br>
 
+[Google I/O](https://io.google)
+
+Google I/O is an annual developer conference held by Google in Mountain View, California. "I/O" stands for Input/Output, as well as the slogan "Innovation in the Open".<br>
+
 ## Kubernetes
 
 [KubeCon/CloudNative Con Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
