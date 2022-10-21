@@ -81,7 +81,7 @@ JSNation is a 2-day conference focusing exclusively on JavaScript development. I
 
 [MagnoliaJS](https://www.magnoliajs.com/)
 
-MagnoliaJS is a two day software conference in Jackson, MS. October 17-18 2023. Held in the the Mississippi Museum of Art. 
+MagnoliaJS is a two day software conference in Jackson, MS. October 17-18 2023. Held in the the Mississippi Museum of Art.
 
 **City and State**: Jackson, MS<br>
 **Country**: USA
@@ -97,6 +97,13 @@ RenderATL is the four-day software engineering experience featuring good vibes, 
 A multi-disciplinary conference that covers fields such as emerging languages, alternative databases, concurrency, distributed systems, security, and the web.<br>
 **City and State**: St. Louis, MO<br>
 **Country**: USA
+
+[ViteConf](https://viteconf.org/)
+
+A free online conference about Vite and the projects reimagining Web Development, brought to you by StackBlitz.
+
+**City and State**: Online<br>
+**Country**: Online
 
 ## Kubernetes
 
