@@ -157,6 +157,12 @@ React Alicante is an international conference that provides to world class front
 **City and State**: Alicante<br>
 **Country**: Spain
 
+[React Brussels](https://www.react.brussels/)
+
+Talks about the trendiest tech and skills from some of the brightest minds in the ReactJS realm will be on agenda, and new geeky encounters will surely emerge from the in-person vibe and experience.<br>
+**City and State**: Brussels<br>
+**Country**: Belgium
+
 ## UI/UX
 
 [Amuse Conference](https://amuseconf.com/)
