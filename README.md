@@ -151,6 +151,12 @@ Take part in the exploration of the React universe! With in-depth talks, hands-o
 **City and State**: Berlin<br>
 **Country**: Germany
 
+[ReactJS Day](https://www.reactjsday.it/)
+
+The event’s goal is to allow all React developers to meet and share experience while having fun and networking in an enjoyable context.<br>
+**City and State**: Verona<br>
+**Country**: Italy
+
 [React India](https://www.reactindia.io/)
 
 React India is an international conference that provides a platform for developers to share and discuss their insights and experiences with React!<br>
@@ -162,6 +168,7 @@ React India is an international conference that provides a platform for develope
 React Rally in Cyberspace is a one day, single track conference for developers of all backgrounds using React.js, React Native, and related tools.<br>
 **City and State**: Salt Lake City, Utah<br>
 **Country**: USA
+
 
 
 ## UI/UX
