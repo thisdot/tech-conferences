@@ -133,11 +133,35 @@ A conference about modern web development with React, React Native, GraphQL and 
 **City and State**: London<br>
 **Country**: England
 
+[React Alicante](https://reactalicante.es/)
+
+React Alicante is an international conference that provides to world class frontend engineers who come together to hold workshops and talks on React.<br>
+**City and State**: Alicante<br>
+**Country**: Spain
+
+[React Brussels](https://www.react.brussels/)
+
+Talks about the trendiest tech and skills from some of the brightest minds in the ReactJS realm will be on agenda, and new geeky encounters will surely emerge from the in-person vibe and experience.<br>
+**City and State**: Brussels<br>
+**Country**: Belgium
+
 [React Day Berlin](https://reactday.berlin/)
 
 Take part in the exploration of the React universe! With in-depth talks, hands-on workshops & new opportunities, the React Day Berlin conference provides space for everyone to collaborate on stellar apps.<br>
 **City and State**: Berlin<br>
 **Country**: Germany
+
+[ReactJS Day](https://www.reactjsday.it/)
+
+The event’s goal is to allow all React developers to meet and share experience while having fun and networking in an enjoyable context.<br>
+**City and State**: Verona<br>
+**Country**: Italy
+
+[React India](https://www.reactindia.io/)
+
+React India is an international conference that provides a platform for developers to share and discuss their insights and experiences with React!<br>
+**City and State**: Goa<br>
+**Country**: India
 
 [React Rally](https://www.reactrally.com/)
 
@@ -145,11 +169,7 @@ React Rally in Cyberspace is a one day, single track conference for developers o
 **City and State**: Salt Lake City, Utah<br>
 **Country**: USA
 
-[ReactJS Day](https://www.reactjsday.it/)
 
-The event’s goal is to allow all React developers to meet and share experience while having fun and networking in an enjoyable context.<br>
-**City and State**: Verona<br>
-**Country**: Italy
 
 ## UI/UX
 
