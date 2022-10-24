@@ -139,11 +139,19 @@ Take part in the exploration of the React universe! With in-depth talks, hands-o
 **City and State**: Berlin<br>
 **Country**: Germany
 
+[React India](https://www.reactindia.io/)
+
+React India is an international conference that provides a platform for developers to share and discuss their insights and experiences with React!<br>
+**City and State**: Goa<br>
+**Country**: India
+
 [React Rally](https://www.reactrally.com/)
 
 React Rally in Cyberspace is a one day, single track conference for developers of all backgrounds using React.js, React Native, and related tools.<br>
 **City and State**: Salt Lake City, Utah<br>
 **Country**: USA
+
+
 
 ## UI/UX
 
