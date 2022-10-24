@@ -145,6 +145,12 @@ React Rally in Cyberspace is a one day, single track conference for developers o
 **City and State**: Salt Lake City, Utah<br>
 **Country**: USA
 
+[React India](https://www.reactindia.io/)
+
+React India is an international conference that provides a platform for developers to share and discuss their insights and experiences with React!<br>
+**City and State**: Goa<br>
+**Country**: India
+
 ## UI/UX
 
 [Amuse Conference](https://amuseconf.com/)
