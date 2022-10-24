@@ -145,6 +145,12 @@ React Rally in Cyberspace is a one day, single track conference for developers o
 **City and State**: Salt Lake City, Utah<br>
 **Country**: USA
 
+[ReactJS Day](https://www.reactjsday.it/)
+
+The event’s goal is to allow all React developers to meet and share experience while having fun and networking in an enjoyable context.<br>
+**City and State**: Verona<br>
+**Country**: Italy
+
 ## UI/UX
 
 [Amuse Conference](https://amuseconf.com/)
