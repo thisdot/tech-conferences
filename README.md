@@ -151,12 +151,6 @@ React India is an international conference that provides a platform for develope
 **City and State**: Goa<br>
 **Country**: India
 
-[React Alicante](https://reactalicante.es/)
-
-React Alicante is an international conference that provides to world class frontend engineers who come together to hold workshops and talks on React.<br>
-**City and State**: Alicante<br>
-**Country**: Spain
-
 ## UI/UX
 
 [Amuse Conference](https://amuseconf.com/)
