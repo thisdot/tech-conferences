@@ -29,6 +29,12 @@ The conference that will teach you how to get the most out of your Angular appli
 **City and State**: Salt Lake City, Utah<br>
 **Country**: USA
 
+[NG-DE](https://ng-de.org/)
+
+NG-DE is the first community-driven Angular conference in Germany. It's an open and diverse conference with fantastic speakers and a welcoming environment, complete with barista coffee and childcare.<br>
+**City and State**: Berlin<br>
+**Country**: Germany
+
 ## CyberSecurity
 
 [DefCon](https://defcon.org/)
@@ -82,13 +88,11 @@ JSNation is a 2-day conference focusing exclusively on JavaScript development. I
 [MagnoliaJS](https://www.magnoliajs.com/)
 
 MagnoliaJS is a two day software conference in Jackson, MS. October 17-18 2023. Held in the the Mississippi Museum of Art.
-
 **City and State**: Jackson, MS<br>
 **Country**: USA
 
 [RenderATL](https://www.renderatl.com/)
 RenderATL is the four-day software engineering experience featuring good vibes, great music, and expert speakers on tech, leadership, inclusion, and accessibility.
-
 **City and State**: Atlanta, GA<br>
 **Country**: USA
 
@@ -101,9 +105,14 @@ A multi-disciplinary conference that covers fields such as emerging languages, a
 [ViteConf](https://viteconf.org/)
 
 A free online conference about Vite and the projects reimagining Web Development, brought to you by StackBlitz.
-
 **City and State**: Online<br>
 **Country**: Online
+
+[WeAreDevelopers World Congress](https://www.wearedevelopers.com/world-congress)
+
+A 2-day flagship event with exciting speakers covering a huge variety of topics.<br>
+**City and State**: Berlin<br>
+**Country**: Germany
 
 ## Kubernetes
 
@@ -179,6 +188,12 @@ This international conference brings together UI/UX engineers from all regions t
 **City and State**: Budapest<br>
 **Country**: Hungary
 
+[PUSH UX](https://push-conference.com/ux-2022/?utm_source=redirect)
+
+PUSH UX is a lovingly crafted platform for hands-on design professionals, product minded innovators and creative technologists.<br>
+**City and State**: Munich<br>
+**Country**: Germany
+
 ## Vue
 
 [Vue.js Live](https://vuejslive.com/)<br>
@@ -187,3 +202,9 @@ This international conference brings together UI/UX engineers from all regions t
 Full Day Vuejs Conference with over 2,000 People flying from over 50 Countries in the World. Vuejs Amsterdam is the must-attend Vue Community Event & Event of the year.<br>
 **City and State**: Amsterdam<br>
 **Country**: Netherlands
+
+[vuejs.de Conf](https://conf.vuejs.de/)
+
+vuejs.de Conf is the first community-drive vue.js conference in Germany. It has a welcoming atmosphere and great lineup of speakers.
+**City and State**: Berlin<br>
+**Country**: Germany
