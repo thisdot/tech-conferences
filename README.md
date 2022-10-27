@@ -19,13 +19,13 @@ We would love to know which conferences you think deserve to be included in our 
 
 [Angular Day](https://2022.angularday.it/)
 
-The Angular Day conference provides an opportunity to all angular developers to meet and share experiences while having fun and networking in an enjoyable context.<br>
+The Angular Day conference provides an opportunity for all angular developers to meet and share experiences while having fun and networking in an enjoyable context.<br>
 **City and State**: Verona<br>
 **Country**: Italy
 
 [ng-conf](https://enterprise.ng-conf.org/)
 
-The conference that will teach you how to get the most out of your Angular applications in the enterprise.<br>
+This conference will teach you how to get the most out of your Angular applications in the enterprise.<br>
 **City and State**: Salt Lake City, Utah<br>
 **Country**: USA
 
@@ -53,7 +53,7 @@ Come and explore all things DevOps with this Global Online Summit.<br>
 
 [DevOps Stage](https://devopsstage.com/)
 
-DevOps Stage is one of the biggest conferences on Cloud Architecture and DevOps in Eastern Europe. It is for those who create complex softwares, work on nontrivial technical problems and use cutting edge technologies.<br>
+DevOps Stage is one of the biggest conferences on Cloud Architecture and DevOps in Eastern Europe. It is for those who create complex software, work on nontrivial technical problems and use cutting-edge technologies.<br>
 **City and State**: Online<br>
 **Country**: Online
 
@@ -85,14 +85,19 @@ GOTO gathers the brightest minds in the software community to help developers ta
 
 JSNation is a 2-day conference focusing exclusively on JavaScript development. It is a good opportunity to learn about the latest trends in the JavaScript ecosystem, and meet other developers.<br>
 
+[KCDC](https://www.kcdc.info/)
+The Kansas City Developer Conference is a two full conference days, which also has a post-conference workshop day hosted yearly in August. It is normally hosted at the Kansas City Convention Center in downtown Kansas City. It tends to host speakers and technology professionals from Missouri, Kansas, Illinois, Nebraska, Iowa, Minnesota, Oklahoma, the Dakotas, and around the United States and the world.
+**City and State**: Kansas City, Kansas<br>
+**Country**: USA
+
 [MagnoliaJS](https://www.magnoliajs.com/)
 
-MagnoliaJS is a two day software conference in Jackson, MS. October 17-18 2023. Held in the the Mississippi Museum of Art.
+MagnoliaJS is a two-day software conference in Jackson, MS. Next version will be on  October 17-18, 2023. It will be held at the Mississippi Museum of Art.
 **City and State**: Jackson, MS<br>
 **Country**: USA
 
 [RenderATL](https://www.renderatl.com/)
-RenderATL is the four-day software engineering experience featuring good vibes, great music, and expert speakers on tech, leadership, inclusion, and accessibility.
+RenderATL is a four-day software engineering experience featuring good vibes, great music, and expert speakers on tech, leadership, inclusion, and accessibility.
 **City and State**: Atlanta, GA<br>
 **Country**: USA
 
@@ -118,13 +123,13 @@ A 2-day flagship event with exciting speakers covering a huge variety of topics.
 
 [KubeCon/CloudNative Con Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
 
-Biggest conference on Kubernetes and building cloud native applications.<br>
+Biggest conference on Kubernetes and building cloud-native applications.<br>
 **City and State**: Valencia<br>
 **Country**: Spain
 
 [KubeCon/CloudNative Con USA](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
 
-Biggest conference on Kubernetes and building cloud native applications.<br>
+Biggest conference on Kubernetes and building cloud-native applications.<br>
 **City and State**: Detroit, MI<br>
 **Country**: USA
 
@@ -144,7 +149,7 @@ A conference about modern web development with React, React Native, GraphQL and 
 
 [React Alicante](https://reactalicante.es/)
 
-React Alicante is an international conference that provides to world class frontend engineers who come together to hold workshops and talks on React.<br>
+React Alicante is an international conference that provides world-class frontend engineers who come together to hold workshops and talks on React.<br>
 **City and State**: Alicante<br>
 **Country**: Spain
 
@@ -157,24 +162,24 @@ Talks about the trendiest tech and skills from some of the brightest minds in th
 [React Day Berlin](https://reactday.berlin/)
 
 Take part in the exploration of the React universe! With in-depth talks, hands-on workshops & new opportunities, the React Day Berlin conference provides space for everyone to collaborate on stellar apps.<br>
-**City and State**: Berlin<br>
+**City and State**: Berlin, Berlin<br>
 **Country**: Germany
 
 [ReactJS Day](https://www.reactjsday.it/)
 
-The event’s goal is to allow all React developers to meet and share experience while having fun and networking in an enjoyable context.<br>
+The event’s goal is to allow all React developers to meet and share the experience while having fun and networking in an enjoyable context.<br>
 **City and State**: Verona<br>
 **Country**: Italy
 
 [React India](https://www.reactindia.io/)
 
 React India is an international conference that provides a platform for developers to share and discuss their insights and experiences with React!<br>
-**City and State**: Goa<br>
+**City**: Goa<br>
 **Country**: India
 
 [React Rally](https://www.reactrally.com/)
 
-React Rally in Cyberspace is a one day, single track conference for developers of all backgrounds using React.js, React Native, and related tools.<br>
+React Rally in Cyberspace is a one-day, single-track conference for developers of all backgrounds using React.js, React Native, and related tools.<br>
 **City and State**: Salt Lake City, Utah<br>
 **Country**: USA
 
@@ -185,13 +190,13 @@ React Rally in Cyberspace is a one day, single track conference for developers o
 [Amuse Conference](https://amuseconf.com/)
 
 This international conference brings together UI/UX engineers from all regions to share ideas, experiences, and tools.<br>
-**City and State**: Budapest<br>
+**City**: Budapest<br>
 **Country**: Hungary
 
 [PUSH UX](https://push-conference.com/ux-2022/?utm_source=redirect)
 
-PUSH UX is a lovingly crafted platform for hands-on design professionals, product minded innovators and creative technologists.<br>
-**City and State**: Munich<br>
+PUSH UX is a lovingly crafted platform for hands-on design professionals, product-minded innovators and creative technologists.<br>
+**City**: Munich<br>
 **Country**: Germany
 
 ## Vue
@@ -200,11 +205,11 @@ PUSH UX is a lovingly crafted platform for hands-on design professionals, produc
 [VueJS Amsterdam](https://www.vuejs.amsterdam/)
 
 Full Day Vuejs Conference with over 2,000 People flying from over 50 Countries in the World. Vuejs Amsterdam is the must-attend Vue Community Event & Event of the year.<br>
-**City and State**: Amsterdam<br>
+**City**: Amsterdam<br>
 **Country**: Netherlands
 
 [vuejs.de Conf](https://conf.vuejs.de/)
 
-vuejs.de Conf is the first community-drive vue.js conference in Germany. It has a welcoming atmosphere and great lineup of speakers.
-**City and State**: Berlin<br>
+vuejs.de Conf is the first community-driven vue.js conference in Germany. It has a welcoming atmosphere and a great lineup of speakers.
+**City**: Berlin<br>
 **Country**: Germany
