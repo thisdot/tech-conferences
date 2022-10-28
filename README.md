@@ -67,7 +67,7 @@ A universe of events and platforms focused on open source, open tech and the ope
 
 [Codemotion Conference](https://events.hubilo.com/codemotion-conference-milan-2022/register)
 
-The Codemotion Conference is the official Codemotion annual event. By attending the event you will have the opportunity to meet a lot of developers and companies. There are also many technical talks on topics such as: Back-end, Front-end, Devops and much more.<br>
+The Codemotion Conference is the official Codemotion annual event. By attending the event you will have the opportunity to meet a lot of developers and companies. There are also many technical talks on topics including Back-end development, Front-end development, DevOps and much more.<br>
 **City and State**: Milano<br>
 **Country**: Italy
 
