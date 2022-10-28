@@ -72,6 +72,12 @@ A universe of events and platforms focused on open source, open tech and the ope
 **City and State**: Raleigh, NC<br>
 **Country**: USA
 
+[Codemotion Conference](https://events.hubilo.com/codemotion-conference-milan-2022/register)
+
+The Codemotion Conference is the official Codemotion annual event. By attending the event you will have the opportunity to meet a lot of developers and companies. There are also many technical talks on topics including Back-end development, Front-end development, DevOps and much more.<br>
+**City and State**: Milano<br>
+**Country**: Italy
+
 [Connect Tech](https://connect.tech)
 
 Largest multi-framework front-end dev conference in the USA.<br>
