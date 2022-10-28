@@ -35,6 +35,13 @@ NG-DE is the first community-driven Angular conference in Germany. It's an open 
 **City and State**: Berlin<br>
 **Country**: Germany
 
+[NG-ROME](https://ngrome.io)
+
+NG-Rome is a non-profit community conference run by a team of volunteers.
+We are all active members of the tech community, and run or contribute to various free local meetups, workshops, and education initiatives.<br>
+**City and State**: Rome<br>
+**Country**: Italy
+
 ## CyberSecurity
 
 [DefCon](https://defcon.org/)
