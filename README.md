@@ -17,210 +17,187 @@ We would love to know which conferences you think deserve to be included in our 
 
 ## Angular
 
-[Angular Day](https://2022.angularday.it/)
+### [Angular Day](https://2022.angularday.it/)
 
-The Angular Day conference provides an opportunity for all angular developers to meet and share experiences while having fun and networking in an enjoyable context.<br>
-**City and State**: Verona<br>
-**Country**: Italy
+The Angular Day conference provides an opportunity for all angular developers to meet and share experiences while having fun and networking in an enjoyable context.
+**Location**: Verona, Italy
 
-[ng-conf](https://enterprise.ng-conf.org/)
+### [ng-conf](https://enterprise.ng-conf.org/)
 
-This conference will teach you how to get the most out of your Angular applications in the enterprise.<br>
-**City and State**: Salt Lake City, Utah<br>
-**Country**: USA
+This conference will teach you how to get the most out of your Angular applications in the enterprise.
+**Location**: Salt Lake City, Utah, USA
 
-[NG-DE](https://ng-de.org/)
+### [NG-DE](https://ng-de.org/)
 
-NG-DE is the first community-driven Angular conference in Germany. It's an open and diverse conference with fantastic speakers and a welcoming environment, complete with barista coffee and childcare.<br>
-**City and State**: Berlin<br>
-**Country**: Germany
+NG-DE is the first community-driven Angular conference in Germany. It's an open and diverse conference with fantastic speakers and a welcoming environment, complete with barista coffee and childcare.
+**Location**: Berlin, Germany
 
-[NG-ROME](https://ngrome.io)
+### [NG-ROME](https://ngrome.io)
 
 NG-Rome is a non-profit community conference run by a team of volunteers.
-We are all active members of the tech community, and run or contribute to various free local meetups, workshops, and education initiatives.<br>
-**City and State**: Rome<br>
-**Country**: Italy
+We are all active members of the tech community, and run or contribute to various free local meetups, workshops, and education initiatives.
+**Location**: Rome, Italy
 
 ## CyberSecurity
 
-[DefCon](https://defcon.org/)
+### [DefCon](https://defcon.org/)
 
-DEF CON is the world's premiere Hacker Conference, held annually in Las Vegas, Nevada. DEF CON is one of the oldest continuously running hacker conventions around, and also one of the largest.<br>
-**City and State**: Las Vegas, Nevada<br>
-**Country**: USA
+DEF CON is the world's premiere Hacker Conference, held annually in Las Vegas, Nevada. DEF CON is one of the oldest continuously running hacker conventions around, and also one of the largest.
+**Location**: Las Vegas, Nevada, USA
 
 ## DevOps
 
-[DevOps Global Summit](https://events.geekle.us/devops/)
+### [DevOps Global Summit](https://events.geekle.us/devops/)
 
-Come and explore all things DevOps with this Global Online Summit.<br>
-**City and State**: Online<br>
-**Country**: Online
+Come and explore all things DevOps with this Global Online Summit.
+**Location**: Virtual
 
-[DevOps Stage](https://devopsstage.com/)
+### [DevOps Stage](https://devopsstage.com/)
 
-DevOps Stage is one of the biggest conferences on Cloud Architecture and DevOps in Eastern Europe. It is for those who create complex software, work on nontrivial technical problems and use cutting-edge technologies.<br>
-**City and State**: Online<br>
-**Country**: Online
+DevOps Stage is one of the biggest conferences on Cloud Architecture and DevOps in Eastern Europe. It is for those who create complex software, work on nontrivial technical problems and use cutting-edge technologies.
+**Location**: Virtual
 
 ## General
 
-[All Things Open](https://www.allthingsopen.org/)
+### [All Things Open](https://www.allthingsopen.org/)
 
-A universe of events and platforms focused on open source, open tech and the open web.<br>
-**City and State**: Raleigh, NC<br>
-**Country**: USA
+A universe of events and platforms focused on open source, open tech and the open web.
+**Location**: Raleigh, NC, USA
 
-[Codemotion Conference](https://events.hubilo.com/codemotion-conference-milan-2022/register)
+### [Codemotion Conference](https://events.hubilo.com/codemotion-conference-milan-2022/register)
 
-The Codemotion Conference is the official Codemotion annual event. By attending the event you will have the opportunity to meet a lot of developers and companies. There are also many technical talks on topics including Back-end development, Front-end development, DevOps and much more.<br>
-**City and State**: Milano<br>
-**Country**: Italy
+The Codemotion Conference is the official Codemotion annual event. By attending the event you will have the opportunity to meet a lot of developers and companies. There are also many technical talks on topics including Back-end development, Front-end development, DevOps and much more.
+**Location**: Milano, Italy
 
-[Connect Tech](https://connect.tech)
+### [Connect Tech](https://connect.tech)
 
-Largest multi-framework front-end dev conference in the USA.<br>
-**City and State**: Atlanta, GA<br>
-**Country**: USA
+Largest multi-framework front-end dev conference in the USA.
+**Location**: Atlanta, GA, USA
 
-[Google I/O](https://io.google)
+### [Google I/O](https://io.google)
 
-Google I/O is an annual developer conference held by Google in Mountain View, California. "I/O" stands for Input/Output, as well as the slogan "Innovation in the Open".<br>
+Google I/O is an annual developer conference held by Google in Mountain View, California. "I/O" stands for Input/Output, as well as the slogan "Innovation in the Open."
+**Location**: Virtual
 
-[Goto Conferences](https://gotopia.tech/)
+### [Goto Conferences](https://gotopia.tech/)
 
-GOTO gathers the brightest minds in the software community to help developers tackle projects today, plan for tomorrow and create a better future.<br>
-**City and State**: Global<br>
-**Country**: Global
+GOTO gathers the brightest minds in the software community to help developers tackle projects today, plan for tomorrow and create a better future.
+**Location**: Global
 
-[JS Nation](https://jsnation.com/)
+### [JS Nation](https://jsnation.com/)
 
-JSNation is a 2-day conference focusing exclusively on JavaScript development. It is a good opportunity to learn about the latest trends in the JavaScript ecosystem, and meet other developers.<br>
+JSNation is a 2-day conference focusing exclusively on JavaScript development. It is a good opportunity to learn about the latest trends in the JavaScript ecosystem, and meet other developers.
+**Location**: Amsterdam & Virtual
 
-[KCDC](https://www.kcdc.info/)
+### [KCDC](https://www.kcdc.info/)
+
 The Kansas City Developer Conference is a two full conference days, which also has a post-conference workshop day hosted yearly in August. It is normally hosted at the Kansas City Convention Center in downtown Kansas City. It tends to host speakers and technology professionals from Missouri, Kansas, Illinois, Nebraska, Iowa, Minnesota, Oklahoma, the Dakotas, and around the United States and the world.
-**City and State**: Kansas City, Kansas<br>
-**Country**: USA
+**Location**: Kansas City, Kansas, USA
 
-[MagnoliaJS](https://www.magnoliajs.com/)
+### [MagnoliaJS](https://www.magnoliajs.com/)
 
 MagnoliaJS is a two-day software conference in Jackson, MS. Next version will be on  October 17-18, 2023. It will be held at the Mississippi Museum of Art.
-**City and State**: Jackson, MS<br>
-**Country**: USA
+**Location**: Jackson, MS, USA
 
-[RenderATL](https://www.renderatl.com/)
+### [RenderATL](https://www.renderatl.com/)
+
 RenderATL is a four-day software engineering experience featuring good vibes, great music, and expert speakers on tech, leadership, inclusion, and accessibility.
-**City and State**: Atlanta, GA<br>
-**Country**: USA
+**Location**: Atlanta, GA, USA
 
-[Strange Loop](https://www.thestrangeloop.com/)
+### [Strange Loop](https://www.thestrangeloop.com/)
 
-A multi-disciplinary conference that covers fields such as emerging languages, alternative databases, concurrency, distributed systems, security, and the web.<br>
-**City and State**: St. Louis, MO<br>
-**Country**: USA
+A multi-disciplinary conference that covers fields such as emerging languages, alternative databases, concurrency, distributed systems, security, and the web.
+**Location**: St. Louis, MO, USA
 
-[ViteConf](https://viteconf.org/)
+### [ViteConf](https://viteconf.org/)
 
 A free online conference about Vite and the projects reimagining Web Development, brought to you by StackBlitz.
-**City and State**: Online<br>
-**Country**: Online
+**Location**: Virtual
 
-[WeAreDevelopers World Congress](https://www.wearedevelopers.com/world-congress)
+### [WeAreDevelopers World Congress](https://www.wearedevelopers.com/world-congress)
 
-A 2-day flagship event with exciting speakers covering a huge variety of topics.<br>
-**City and State**: Berlin<br>
-**Country**: Germany
+A 2-day flagship event with exciting speakers covering a huge variety of topics.
+**Location**: Berlin, Germany
 
 ## Kubernetes
 
-[KubeCon/CloudNative Con Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
+### [KubeCon/CloudNative Con Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
 
-Biggest conference on Kubernetes and building cloud-native applications.<br>
-**City and State**: Valencia<br>
-**Country**: Spain
+Biggest conference on Kubernetes and building cloud-native applications.
+**Location**: Valencia, Spain
 
-[KubeCon/CloudNative Con USA](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
+### [KubeCon/CloudNative Con USA](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
 
-Biggest conference on Kubernetes and building cloud-native applications.<br>
-**City and State**: Detroit, MI<br>
-**Country**: USA
+Biggest conference on Kubernetes and building cloud-native applications.
+**Location**: Detroit, MI, USA
 
 ## React
 
-[International JavaScript Conference](https://javascript-conference.com/munich/)
+### [International JavaScript Conference](https://javascript-conference.com/munich/)
 
-From Angular and React to WebAssembly; from Progressive Web Apps to JAMstack – international experts share insights on the present and future JavaScript.<br>
-**City and State**: Munich<br>
-**Country**: Germany
+From Angular and React to WebAssembly; from Progressive Web Apps to JAMstack – international experts share insights on the present and future JavaScript.
+**Location**: Munich, Germany
 
-[React Advanced](https://reactadvanced.com/)
+### [React Advanced](https://reactadvanced.com/)
 
-A conference about modern web development with React, React Native, GraphQL and TypeScript. Get a chance to connect with the global network of field experts and explore React.js.<br>
-**City and State**: London<br>
-**Country**: England
+A conference about modern web development with React, React Native, GraphQL and TypeScript. Get a chance to connect with the global network of field experts and explore React.js.
+**Location**: London, England
 
-[React Alicante](https://reactalicante.es/)
+### [React Alicante](https://reactalicante.es/)
 
-React Alicante is an international conference that provides world-class frontend engineers who come together to hold workshops and talks on React.<br>
-**City and State**: Alicante<br>
-**Country**: Spain
+React Alicante is an international conference that provides world-class frontend engineers who come together to hold workshops and talks on React.
+**Location**: Alicante, Spain
 
-[React Brussels](https://www.react.brussels/)
+### [React Brussels](https://www.react.brussels/)
 
-Talks about the trendiest tech and skills from some of the brightest minds in the ReactJS realm will be on agenda, and new geeky encounters will surely emerge from the in-person vibe and experience.<br>
-**City and State**: Brussels<br>
-**Country**: Belgium
+Talks about the trendiest tech and skills from some of the brightest minds in the ReactJS realm will be on agenda, and new geeky encounters will surely emerge from the in-person vibe and experience.
+**Location**: Brussels, Belgium
 
-[React Day Berlin](https://reactday.berlin/)
+### [React Day Berlin](https://reactday.berlin/)
 
-Take part in the exploration of the React universe! With in-depth talks, hands-on workshops & new opportunities, the React Day Berlin conference provides space for everyone to collaborate on stellar apps.<br>
-**City and State**: Berlin, Berlin<br>
-**Country**: Germany
+Take part in the exploration of the React universe! With in-depth talks, hands-on workshops & new opportunities, the React Day Berlin conference provides space for everyone to collaborate on stellar apps.
+**Location**: Berlin, Germany
 
-[ReactJS Day](https://www.reactjsday.it/)
+### [ReactJS Day](https://www.reactjsday.it/)
 
-The event’s goal is to allow all React developers to meet and share the experience while having fun and networking in an enjoyable context.<br>
-**City and State**: Verona<br>
-**Country**: Italy
+The event’s goal is to allow all React developers to meet and share the experience while having fun and networking in an enjoyable context.
+**Location**: Verona, Italy
 
-[React India](https://www.reactindia.io/)
+### [React India](https://www.reactindia.io/)
 
-React India is an international conference that provides a platform for developers to share and discuss their insights and experiences with React!<br>
-**City**: Goa<br>
-**Country**: India
+React India is an international conference that provides a platform for developers to share and discuss their insights and experiences with React!
+**City**: Goa, India
 
-[React Rally](https://www.reactrally.com/)
+### [React Rally](https://www.reactrally.com/)
 
-React Rally in Cyberspace is a one-day, single-track conference for developers of all backgrounds using React.js, React Native, and related tools.<br>
-**City and State**: Salt Lake City, Utah<br>
-**Country**: USA
+React Rally in Cyberspace is a one-day, single-track conference for developers of all backgrounds using React.js, React Native, and related tools.
+**Location**: Salt Lake City, Utah, USA
 
 ## UI/UX
 
-[Amuse Conference](https://amuseconf.com/)
+### [Amuse Conference](https://amuseconf.com/)
 
-This international conference brings together UI/UX engineers from all regions to share ideas, experiences, and tools.<br>
-**City**: Budapest<br>
-**Country**: Hungary
+This international conference brings together UI/UX engineers from all regions to share ideas, experiences, and tools.
+**Location**: Budapest, Hungary
 
-[PUSH UX](https://push-conference.com/ux-2022/?utm_source=redirect)
+### [PUSH UX](https://push-conference.com/ux-2022/?utm_source=redirect)
 
-PUSH UX is a lovingly crafted platform for hands-on design professionals, product-minded innovators and creative technologists.<br>
-**City**: Munich<br>
-**Country**: Germany
+PUSH UX is a lovingly crafted platform for hands-on design professionals, product-minded innovators and creative technologists.
+**Location**: Munich, Germany
 
 ## Vue
 
-[Vue.js Live](https://vuejslive.com/)<br>
-[VueJS Amsterdam](https://www.vuejs.amsterdam/)
+### [Vue.js Live](https://vuejslive.com/)
 
-Full Day Vuejs Conference with over 2,000 People flying from over 50 Countries in the World. Vuejs Amsterdam is the must-attend Vue Community Event & Event of the year.<br>
-**City**: Amsterdam<br>
-**Country**: Netherlands
+Following the expansion of the Vue ecosystem, Vue.js London has grown from a local Meetup to an international conf, and in 2022 we're going even further – global. The event will welcome more than 10000 Vue folks remotely from anywhere in the world while there going to be an offline part for a limited number of luckies. Moreover, every participant around the world can access our online workshops, fun & networking with stellar Vue people.
+**Location**: London, UK & Virtual
 
-[vuejs.de Conf](https://conf.vuejs.de/)
+### [VueJS Amsterdam](https://www.vuejs.amsterdam/)
+
+A 2-day Celebration together with 1000+ Vue Enthusiasts. Packed with the Latest Vue Eco System updates from Core Contributors Authors , Creators and Experts. An opportunity to meet new people and bond with your team at one of the Networking Mixers or Afterparty.
+**Location**: Amsterdam, Netherlands
+
+### [vuejs.de Conf](https://conf.vuejs.de/)
 
 vuejs.de Conf is the first community-driven vue.js conference in Germany. It has a welcoming atmosphere and a great lineup of speakers.
-**City**: Berlin<br>
-**Country**: Germany
+**Location**: Berlin, Germany
