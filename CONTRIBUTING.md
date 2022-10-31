@@ -7,19 +7,20 @@ To have an effective process, please have a look at our guidelines for contribut
 **Notes:**
 If a category doesn't exist for the conference you're suggesting, please feel free to add it to the `README`.
 
-## Tech conference categories
+## Tech Conference Categories
 
 Here are the following categories to contribute to:
 
-- React
-- Vue
 - Angular
+- Cybersecurity
+- DevOps
 - General
 - Kubernetes
-- DevOps
+- React
 - UI/UX
+- Vue
 
-## How to contribute
+## How to Contribute
 
 1. Check the `README` to see if your suggestion exists or not.
 2. Fork the repository. Here are the [GitHub instructions for forking a repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
@@ -34,6 +35,6 @@ Here are the following categories to contribute to:
 10. Open a PR directed to our `main` branch.
 11. The maintainers will review your PR and either request changes or approve it.
 
-## Beginner Friendly Resources for using Git and GitHub
+## Beginner Friendly Resources for Using Git and GitHub
 
 - [Getting Started with Git](https://www.thisdot.co/blog/getting-started-with-git)
