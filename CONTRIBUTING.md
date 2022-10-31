@@ -15,6 +15,7 @@ Here are the following categories to contribute to:
 - Cybersecurity
 - DevOps
 - General
+- Jamstack
 - Kubernetes
 - React
 - UI/UX

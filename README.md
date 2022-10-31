@@ -10,6 +10,7 @@ We would love to know which conferences you think deserve to be included in our 
 - [CyberSecurity](#cybersecurity)
 - [DevOps](#devops)
 - [General](#general)
+- [Jamstack](#jamstack)
 - [Kubernetes](#kubernetes)
 - [React](#react)
 - [UI/UX](#uiux)
@@ -137,6 +138,20 @@ A free online conference about Vite and the projects reimagining Web Development
 A 2-day flagship event with exciting speakers covering a huge variety of topics.
 
 **Location**: Berlin, Germany
+
+## Jamstack
+
+### [Jamstack Conf](https://jamstack.org/conf/)
+
+Jamstack Conf is for engineers, technology leaders, and digital agencies who are embracing the next evolution of modern web development architecture.
+
+**Location**: San Francisco, CA, USA & Virtual
+
+### [TheJam.dev](https://cfe.dev/events/the-jam-2023/)
+
+Jamstack, web development, serverless and more! Edge functions? Islands architecture? New frameworks? There’s so many new things to learn in front-end web development and Jamstack. Don’t worry, we’ve got you covered!
+
+**Location**: Virtual
 
 ## Kubernetes
 
