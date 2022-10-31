@@ -23,11 +23,12 @@ Here are the following categories to contribute to:
 ## Entry Format
 
 ### [Conference Name](link to conference website)
-<!-- H3 heading above -->
 
 Add the conference's description here. This can usually be found on the website's homepage.
 
 **Location**: City, State, County AND/OR Virtual
+
+**_Hint:_** Use an `H3` heading for each entry by adding `###` followed by a space in front of the `Conference Name`.
 
 ## How to Contribute
 
