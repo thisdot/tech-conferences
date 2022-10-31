@@ -20,6 +20,15 @@ Here are the following categories to contribute to:
 - UI/UX
 - Vue
 
+## Entry Format
+
+### [Conference Name](link to conference website)
+<!-- H3 heading above -->
+
+Add the conference's description here. This can usually be found on the website's homepage.
+
+**Location**: City, State, County AND/OR Virtual
+
 ## How to Contribute
 
 1. Check the `README` to see if your suggestion exists or not.
