@@ -196,8 +196,6 @@ React Rally in Cyberspace is a one-day, single-track conference for developers o
 **City and State**: Salt Lake City, Utah<br>
 **Country**: USA
 
-
-
 ## UI/UX
 
 [Amuse Conference](https://amuseconf.com/)
