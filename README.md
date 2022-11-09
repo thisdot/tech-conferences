@@ -65,6 +65,12 @@ DevOps Stage is one of the biggest conferences on Cloud Architecture and DevOps 
 
 **Location**: Virtual
 
+### [Serverless Summit](https://www.serverless-summit.io/)
+
+Serverless Summit is for those who want to create value, build unique experiences and share knowledge with others.
+
+**Location**: Virtual
+
 ## General
 
 ### [All Things Open](https://www.allthingsopen.org/)
