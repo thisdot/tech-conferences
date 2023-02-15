@@ -103,6 +103,12 @@ GOTO gathers the brightest minds in the software community to help developers ta
 
 **Location**: Global
 
+### [JSHeroes](https://jsheroes.io/)
+
+JSHeroes is a non-profit community-organized conference, held every year in Cluj, Romania. Our goal is to bring together JS and Web/Frontend development enthusiasts from all over the world, for a 2-day event with: great talks, amazing networking and tons of fun.
+
+**Location**: Cluj-Napoca, Romania
+
 ### [JS Nation](https://jsnation.com/)
 
 JSNation is a 2-day conference focusing exclusively on JavaScript development. It is a good opportunity to learn about the latest trends in the JavaScript ecosystem, and meet other developers.
